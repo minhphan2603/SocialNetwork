@@ -1,0 +1,23 @@
+{
+  "name": "SocialNetwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhphan2603/SocialNetwork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhphan2603/SocialNetwork/issues"
+  },
+  "homepage": "https://github.com/minhphan2603/SocialNetwork#readme",
+  "dependencies": {
+    "mongoose": "^5.5.13"
+  }
+}
